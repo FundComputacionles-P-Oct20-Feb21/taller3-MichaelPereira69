@@ -1,0 +1,7 @@
+1.Inicio
+2.Se muestra en pantalla el valor de su prestamo y en cuantos meses es a pagar que son de dose meses 
+3.Se calcula el valor de todos los meses que tiene que ingresar el monto 
+4.Se ingresa el monto del prestamo que es a ingresar de cada mes
+5.El monto total del prestamos sumado el interes se presenta en la pantalla dando un resultado exacto a pagar 
+6.Se divide la cantidad a pagar por cada uno de los meses solicitados 
+7.Fin.
